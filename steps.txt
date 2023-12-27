@@ -1,0 +1,30 @@
+npm i
+npm run dev
+
+https://www.npmjs.com/package/react-type-animation
+https://github.com/maxeth/react-type-animation
+npm install sweetalert2
+https://www.w3schools.blog/bootstrap-reactjs
+npm install bootstrap --save
+https://react-bootstrap.netlify.app/docs/getting-started/introduction
+npm install react-bootstrap bootstrap
+
+https://sweetalert2.github.io/#examples
+npm install sweetalert2
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

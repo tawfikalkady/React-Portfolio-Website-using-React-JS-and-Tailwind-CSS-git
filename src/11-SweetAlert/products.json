@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "name":"ali",
+        "description":"syrian",
+        "price":100,
+        "image":"../assets/boreal-coffee-clone.jpeg"
+
+    },
+    {
+        "id":"2",
+        "name":"ahmed",
+        "description":"egyption",
+        "price":200,
+        "image":"../assets/common-bg.svg"
+
+    },
+    {
+        "id":"3",
+        "name":"tawfik",
+        "description":"indian",
+        "price":300,
+        "image":"../assets/cover-image.png",
+
+    }
+]
